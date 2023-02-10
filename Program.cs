@@ -1,7 +1,14 @@
-﻿Console.Write("Input an Number, ");
-string example = Console.ReadLine();
-int a = Convert.ToInt32(example);
+﻿Console.Write("Input a First Number, ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input a Second Number, ");
+int b = Convert.ToInt32(Console.ReadLine());
 int result = 0;
-Console.Write("result, ");
-result = a * a;
-Console.WriteLine(result);
+result = a / b;
+if (b == result)
+{
+    Console.WriteLine("This is a square");
+}
+else
+{
+    Console.WriteLine("This is not square");
+}
