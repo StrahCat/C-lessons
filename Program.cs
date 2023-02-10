@@ -1,14 +1,26 @@
-﻿Console.Write("Input a First Number, ");
+﻿Console.Write("Input a day number, ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Input a Second Number, ");
-int b = Convert.ToInt32(Console.ReadLine());
-int result = 0;
-result = a / b;
-if (b == result)
+switch (a)
 {
-    Console.WriteLine("This is a square");
-}
-else
-{
-    Console.WriteLine("This is not square");
+    case 1:
+        Console.WriteLine("Monday");
+        break;
+    case 2:
+        Console.WriteLine("Tuesday");
+        break;
+    case 3:
+        Console.WriteLine("Wednesday");
+        break;
+    case 4:
+        Console.WriteLine("Thursday");
+        break;
+    case 5:
+        Console.WriteLine("Friday");
+        break;
+    case 6:
+        Console.WriteLine("Saturday");
+        break;
+    case 7:
+        Console.WriteLine("Sunday");
+        break;
 }

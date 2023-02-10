@@ -36,7 +36,7 @@ _**If you want to use numbers from string variable, always convert data in to nu
 * result = a * a;
 * Console.WriteLine(result);
 
-## Second Algo 
+## Second Algo (Is a square of b ?)
 
 * Console.Write("Input a First Number, ");
 * int a = Convert.ToInt32(Console.ReadLine());
@@ -52,3 +52,37 @@ _**If you want to use numbers from string variable, always convert data in to nu
 {
     Console.WriteLine("This is not square");
 }
+
+## Third Algo (Input number, which day of the week this number ?)
+
+* **switch ("variable")** - create a many different options for what variable means or make. (look third algo)
+* **case** - init variable for numbers (case 1;) for text variable (case "Monday";)
+* **break** - always in the end to break the algo and give as a right answer from "switch".
+
+* Console.Write("Input a day number, ");
+* int a = Convert.ToInt32(Console.ReadLine());
+* switch (a)
+* {
+    case 1:
+        Console.WriteLine("Monday");
+        break;
+    case 2:
+        Console.WriteLine("Tuesday");
+        break;
+    case 3:
+        Console.WriteLine("Wednesday");
+        break;
+    case 4:
+        Console.WriteLine("Thursday");
+        break;
+    case 5:
+        Console.WriteLine("Friday");
+        break;
+    case 6:
+        Console.WriteLine("Saturday");
+        break;
+    case 7:
+        Console.WriteLine("Sunday");
+        break;
+}
+
