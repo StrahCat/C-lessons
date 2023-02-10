@@ -86,7 +86,7 @@ _**If you want to use numbers from string variable, always convert data in to nu
         break;
 }
 
-## Algo 5 
+## Algo 5 (Numbers from -)
 
 * Console.WriteLine("Input Number, ");
 * int a = Convert.ToInt32(Console.ReadLine());
