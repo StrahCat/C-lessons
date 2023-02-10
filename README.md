@@ -88,10 +88,13 @@ _**If you want to use numbers from string variable, always convert data in to nu
 
 ## Algo 5 (Numbers from -)
 
+* **Math.Abs** - create any number positive, for example if there is -3 it convert it in 3.
+
 * Console.WriteLine("Input Number, ");
-* int a = Convert.ToInt32(Console.ReadLine());
+* int a = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
 * for (int i = -a; i <= a; i++)
 {
     Console.WriteLine(i);
 }
+
