@@ -1,26 +1,8 @@
-﻿Console.Write("Input a day number, ");
-int a = Convert.ToInt32(Console.ReadLine());
-switch (a)
-{
-    case 1:
-        Console.WriteLine("Monday");
-        break;
-    case 2:
-        Console.WriteLine("Tuesday");
-        break;
-    case 3:
-        Console.WriteLine("Wednesday");
-        break;
-    case 4:
-        Console.WriteLine("Thursday");
-        break;
-    case 5:
-        Console.WriteLine("Friday");
-        break;
-    case 6:
-        Console.WriteLine("Saturday");
-        break;
-    case 7:
-        Console.WriteLine("Sunday");
-        break;
-}
+﻿
+// Задача №7. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
+// 	456 -> 6
+// 	782 -> 2
+// 	918 -> 8
+
+
+

@@ -86,3 +86,12 @@ _**If you want to use numbers from string variable, always convert data in to nu
         break;
 }
 
+## Algo 5 
+
+* Console.WriteLine("Input Number, ");
+* int a = Convert.ToInt32(Console.ReadLine());
+
+* for (int i = -a; i <= a; i++)
+{
+    Console.WriteLine(i);
+}
