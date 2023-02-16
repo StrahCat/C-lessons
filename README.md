@@ -28,29 +28,48 @@ _**If you want to use numbers from string variable, always convert data in to nu
 
 ## First Algorithm
 
-* Console.Write("Input an Number, ");
-* string example = Console.ReadLine();
-* int a = Convert.ToInt32(example);
-* int result = 0;
-* Console.Write("result, ");
-* result = a * a;
-* Console.WriteLine(result);
+Console.Write("Input an Number, ");
+
+string example = Console.ReadLine();
+
+int a = Convert.ToInt32(example);
+
+int result = 0;
+
+Console.Write("result, ");
+
+result = a * a;
+
+Console.WriteLine(result);
 
 ## Second Algo (Is a square of b ?)
 
-* Console.Write("Input a First Number, ");
-* int a = Convert.ToInt32(Console.ReadLine());
-* Console.Write("Input a Second Number, ");
-* int b = Convert.ToInt32(Console.ReadLine());
-* int result = 0;
-* result = a / b;
-* if (b == result)
+Console.Write("Input a First Number, ");
+
+int a = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Input a Second Number, ");
+
+int b = Convert.ToInt32(Console.ReadLine());
+
+int result = 0;
+
+result = a / b;
+
+if (b == result)
+
 {
+
     Console.WriteLine("This is a square");
+
 }
-* else
+
+else
+
 {
+
     Console.WriteLine("This is not square");
+
 }
 
 ## Third Algo (Input number, which day of the week this number ?)
@@ -59,42 +78,71 @@ _**If you want to use numbers from string variable, always convert data in to nu
 * **case** - init variable for numbers (case 1;) for text variable (case "Monday";)
 * **break** - always in the end to break the algo and give as a right answer from "switch".
 
-* Console.Write("Input a day number, ");
-* int a = Convert.ToInt32(Console.ReadLine());
-* switch (a)
-* {
+Console.Write("Input a day number, ");
+
+int a = Convert.ToInt32(Console.ReadLine());
+
+switch (a)
+
+{
+
     case 1:
+
         Console.WriteLine("Monday");
+
         break;
+
     case 2:
+
         Console.WriteLine("Tuesday");
+
         break;
+
     case 3:
+
         Console.WriteLine("Wednesday");
+
         break;
+
     case 4:
+
         Console.WriteLine("Thursday");
+
         break;
+
     case 5:
+
         Console.WriteLine("Friday");
+
         break;
+
     case 6:
+
         Console.WriteLine("Saturday");
+
         break;
+
     case 7:
+
         Console.WriteLine("Sunday");
+
         break;
+
 }
 
 ## Algo 5 (Numbers from -)
 
 * **Math.Abs** - create any number positive, for example if there is -3 it convert it in 3.
 
-* Console.WriteLine("Input Number, ");
-* int a = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+Console.WriteLine("Input Number, ");
 
-* for (int i = -a; i <= a; i++)
+int a = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+
+for (int i = -a; i <= a; i++)
+
 {
+
     Console.WriteLine(i);
+
 }
 
