@@ -96,3 +96,20 @@ for (int i = -a; i <= a; i++)<br>
     Console.WriteLine(i);<br>
 }
 
+## Algo 6 (Show us last number of number with at least 3 characters 768 = 8, 243 = 3 e.t.c)
+
+Console.WriteLine("Input number with 3 characters, ");<br>
+int a = Convert.ToInt32(Console.ReadLine());<br>
+if (a / 100 == 0 || a / 100 > 9)<br>
+{<br>
+    Console.WriteLine("This number is not correct");<br>
+}<br>
+else<br>
+{<br>
+    int result = a % 10;<br>
+    Console.WriteLine($"Your last number of {a}, is {result}");<br>
+}<br>
+
+## WORK WITH ARRAY
+
+* **int[] array**
