@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d3kaz\\Desktop\\C-lessons\\C-lessons\\C-lessons.csproj": {}
+    "C:\\Users\\d3kaz\\Desktop\\Docs\\C-lessons\\C-lessons\\C-lessons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d3kaz\\Desktop\\C-lessons\\C-lessons\\C-lessons.csproj": {
+    "C:\\Users\\d3kaz\\Desktop\\Docs\\C-lessons\\C-lessons\\C-lessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d3kaz\\Desktop\\C-lessons\\C-lessons\\C-lessons.csproj",
+        "projectUniqueName": "C:\\Users\\d3kaz\\Desktop\\Docs\\C-lessons\\C-lessons\\C-lessons.csproj",
         "projectName": "C-lessons",
-        "projectPath": "C:\\Users\\d3kaz\\Desktop\\C-lessons\\C-lessons\\C-lessons.csproj",
+        "projectPath": "C:\\Users\\d3kaz\\Desktop\\Docs\\C-lessons\\C-lessons\\C-lessons.csproj",
         "packagesPath": "C:\\Users\\d3kaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d3kaz\\Desktop\\C-lessons\\C-lessons\\obj\\",
+        "outputPath": "C:\\Users\\d3kaz\\Desktop\\Docs\\C-lessons\\C-lessons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\d3kaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

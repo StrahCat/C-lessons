@@ -110,6 +110,52 @@ else<br>
     Console.WriteLine($"Your last number of {a}, is {result}");<br>
 }<br>
 
+## Algo 7
+
+// random number from 10 to 99<br>
+// show me last number of that number 78 = 8, 99 = 9<br>
+// [10,99] - 10 и 99 включены в диапазон;<br>
+// (10, 99) - 10 и 99 невключены в диапазон; <br>
+// Console.WriteLine("text example" + " " + a); - how to print text + variable<br>
+// Console.WriteLine("Text {0} example {1} and one more {2}", + a, b, c); - how to print text + variable<br>
+// Console.WriteLine($"text {a} and here more variable {b}"); - how to print text + variable<br>
+
+Random createNumber = new Random(); // create random number;<br>
+int number = createNumber.Next(10, 99); //method "Next" choose number<br> include 10 but exclude 99;<br>
+int a = number / 10;<br>
+int b = number % 10;<br>
+
+if (a > b)<br>
+{<br>
+    Console.WriteLine("Первая цифра больше второй");<br>
+}<br>
+else if (a < b)<br>
+{<br>
+    Console.WriteLine("Вторая цифра больше первой");<br>
+}<br>
+else<br>
+{<br>
+    Console.WriteLine("Цифры равны");<br>
+}<br>
+
+## Algo 8
+
+// Напишите программу, которая выводит случайное трехзначное число и удаляет вторую цифру этого числа.<br>
+
+// 456 -> 46<br>
+// 782 -> 72<br>
+// 918 -> 98<br>
+
+Random createNum = new Random();<br>
+int random = createNum.Next(100, 999);<br>
+
+int a = random % 10;<br>
+int b = random / 100;<br>
+Console.WriteLine(random);<br>
+Console.WriteLine($"Наше число {b}{a}");<br>
+
 ## WORK WITH ARRAY
+
+* **Random variableName = new Random();** - create randim number
 
 * **int[] array**
