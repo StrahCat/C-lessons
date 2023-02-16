@@ -154,6 +154,31 @@ int b = random / 100;<br>
 Console.WriteLine(random);<br>
 Console.WriteLine($"Наше число {b}{a}");<br>
 
+## Algo 9
+
+// Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого.<br>
+
+// 5, 25 -> да<br>
+// -4, 16 -> да<br>
+// 25, 5 -> да<br>
+// 8,9 -> нет<br>
+Console.WriteLine("Введите первое число: ");<br>
+int firstNum = Convert.ToInt32(Console.ReadLine());<br>
+Console.WriteLine("Введите второе число: ");<br>
+int secondNum = Convert.ToInt32(Console.ReadLine());<br>
+if (firstNum % secondNum == 0)<br>
+{<br>
+    Console.Write("Первое число является квадратом второго");<br>
+}<br>
+else if (secondNum % firstNum == 0)<br>
+{<br>
+    Console.WriteLine("Второе число является квадратам первого");<br>
+}<br>
+else<br>
+{<br>
+    Console.WriteLine("Оба числа не являются квадратами друг друга");<br>
+}<br>
+
 ## WORK WITH ARRAY
 
 * **Random variableName = new Random();** - create randim number
