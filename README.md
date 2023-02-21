@@ -179,6 +179,26 @@ else<br>
     Console.WriteLine("Оба числа не являются квадратами друг друга");<br>
 }<br>
 
+## Algo 10
+// Напишите программу, которая будет принимать на вход два числа и выводить,является ли первое число кратным второму.<br>
+// Если число 1 не кратно числу 2, то программа выводит остаток от деления.<br>
+// 34, 5 -> не кратно, остаток 4<br>
+// 16, 4 -> кратно<br>
+
+Console.WriteLine("Введите двухзначное Число: ");<br>
+int FirstNum = Convert.ToInt32(Console.ReadLine());<br>
+Console.WriteLine("Введите однозначное Число: ");<br>
+int SecondNum = Convert.ToInt32(Console.ReadLine());<br>
+
+if (FirstNum % SecondNum == 0)<br>
+    Console.WriteLine($"{FirstNum} кратно {SecondNum}");<br>
+else<br>
+{<br>
+    int result = FirstNum % SecondNum;<br>
+    Console.WriteLine($"{FirstNum} не кратно {SecondNum} остаток от деления {result}");<br>
+}<br>
+
+
 ## WORK WITH ARRAY
 
 * **Random variableName = new Random();** - create randim number
