@@ -198,6 +198,23 @@ else<br>
     Console.WriteLine($"{FirstNum} не кратно {SecondNum} остаток от деления {result}");<br>
 }<br>
 
+## Algo 14
+
+// Напишите программу, которая принимает на вход число и проверяет,<br> 
+// кратно ли оно одновременно<br>
+// 7 и 23.<br>
+// 14 -> нет<br>
+// 46 -> нет<br>
+// 161 -> да<br>
+Console.WriteLine("Введите двухзначное Число: ");<br>
+int FirstNum = Convert.ToInt32(Console.ReadLine());<br>
+
+if (FirstNum % 7 == 0 && FirstNum % 23 == 0)<br>
+    Console.WriteLine("True");<br>
+else<br>
+{<br>
+    Console.WriteLine("False");<br>
+}<br>
 
 ## WORK WITH ARRAY
 
