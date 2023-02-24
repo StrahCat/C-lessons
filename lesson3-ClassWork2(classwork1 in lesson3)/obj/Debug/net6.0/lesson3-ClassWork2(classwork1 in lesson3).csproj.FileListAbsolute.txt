@@ -1,0 +1,15 @@
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\bin\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).exe
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\bin\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).deps.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\bin\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).runtimeconfig.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\bin\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\bin\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).csproj.AssemblyReference.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).AssemblyInfoInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).AssemblyInfo.cs
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).csproj.CoreCompileInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\refint\lesson3-ClassWork2(classwork1 in lesson3).dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\lesson3-ClassWork2(classwork1 in lesson3).genruntimeconfig.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson3-ClassWork2(classwork1 in lesson3)\obj\Debug\net6.0\ref\lesson3-ClassWork2(classwork1 in lesson3).dll
