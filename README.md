@@ -198,7 +198,7 @@ else<br>
     Console.WriteLine($"{FirstNum} не кратно {SecondNum} остаток от деления {result}");<br>
 }<br>
 
-## Algo 14
+## Algo 11
 
 // Напишите программу, которая принимает на вход число и проверяет,<br> 
 // кратно ли оно одновременно<br>
@@ -215,6 +215,38 @@ else<br>
 {<br>
     Console.WriteLine("False");<br>
 }<br>
+
+## Algo 12
+
+// Задача №17. Напишите программу, которая принимает на вход координаты точки (X и Y),<br>
+// причем X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка.<br>
+
+int[] points = new int[2];<br>
+for (int i = 0; i < points.Length; i++)<br>
+{<br>
+    while (true)<br>
+    {<br>
+        points[i] = Convert.ToInt32(Console.ReadLine());<br>
+        if (points[i] != 0)<br>
+            break;<br>
+        else<br>
+        {<br>
+            Console.WriteLine("Incorrect input");<br>
+        }<br>
+    }<br>
+}<br>
+
+if (points[0] > 0 && points[1] > 0)<br>
+    Console.WriteLine("1");<br>
+else if (points[0] > 0 && points[1] < 0)<br>
+    Console.WriteLine("2");<br>
+else if (points[0] < 0 && points[1] < 0)<br>
+    Console.WriteLine("3");<br>
+else<br>
+    Console.WriteLine("4");<br>
+
+
+
 
 ## WORK WITH ARRAY
 
