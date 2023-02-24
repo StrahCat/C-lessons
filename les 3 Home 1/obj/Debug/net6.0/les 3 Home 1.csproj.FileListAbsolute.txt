@@ -1,0 +1,15 @@
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\bin\Debug\net6.0\les 3 Home 1.exe
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\bin\Debug\net6.0\les 3 Home 1.deps.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\bin\Debug\net6.0\les 3 Home 1.runtimeconfig.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\bin\Debug\net6.0\les 3 Home 1.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\bin\Debug\net6.0\les 3 Home 1.pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.csproj.AssemblyReference.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.AssemblyInfoInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.AssemblyInfo.cs
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.csproj.CoreCompileInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\refint\les 3 Home 1.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\les 3 Home 1.genruntimeconfig.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\les 3 Home 1\obj\Debug\net6.0\ref\les 3 Home 1.dll
