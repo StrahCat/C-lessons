@@ -246,7 +246,11 @@ else<br>
     Console.WriteLine("4");<br>
 
 
+## Math Square and Root in c#
 
+* **double resultX = Math.Pow(doteXtwo - doteXone, 2);** //Вот такой синтаксис Math.Pow(base, exponent)
+* **double resultY = Math.Pow(doteYtwo - doteYone, 2);**
+* **double distance = Math.Sqrt(resultX + resultY);** //Вот такой синтаксис Math.Sqrt(number)
 
 ## WORK WITH ARRAY
 
