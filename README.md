@@ -263,3 +263,22 @@ else<br>
 * **int[] array2 = new int[] { 1, 3, 5, 7, 9 };** -  Declare and set array element values.
 
 * **int[] array3 = { 1, 2, 3, 4, 5, 6 };** - Alternative syntax.
+
+* **Console.WriteLine($"{string.Join(",", array)}");** - print whole array without function **string.Join("separator", value);**
+
+* **string str = string.Join(" ", array);** - create Method named "str" can use any name u like, so by using this we can print array by using **Console.WriteLine(str);**
+
+## object.ToCharArray 
+
+public static void Main()<br>
+   {<br>
+      string s = "AaBbCcDd";<br>
+      char[] chars = s.ToCharArray(); // Здесь мы преоброзовали стринг S в массив chars<br>
+      Console.WriteLine("Original string: {0}", s);<br>
+      Console.WriteLine("Character array:");<br>
+      for (int ctr = 0; ctr < chars.Length; ctr++)<br>
+      {<br>
+         Console.WriteLine("   {0}: {1}", ctr, chars[ctr]);<br>
+      }<br>
+   }<br>
+}<br>

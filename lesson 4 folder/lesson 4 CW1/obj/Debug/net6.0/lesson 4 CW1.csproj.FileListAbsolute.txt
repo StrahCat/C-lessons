@@ -1,0 +1,15 @@
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\bin\Debug\net6.0\lesson 4 CW1.exe
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\bin\Debug\net6.0\lesson 4 CW1.deps.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\bin\Debug\net6.0\lesson 4 CW1.runtimeconfig.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\bin\Debug\net6.0\lesson 4 CW1.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\bin\Debug\net6.0\lesson 4 CW1.pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.csproj.AssemblyReference.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.AssemblyInfoInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.AssemblyInfo.cs
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.csproj.CoreCompileInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\refint\lesson 4 CW1.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\lesson 4 CW1.genruntimeconfig.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 4 folder\lesson 4 CW1\obj\Debug\net6.0\ref\lesson 4 CW1.dll
