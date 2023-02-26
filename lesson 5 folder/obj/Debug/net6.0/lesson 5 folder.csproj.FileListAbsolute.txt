@@ -1,0 +1,15 @@
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\bin\Debug\net6.0\lesson 5 folder.exe
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\bin\Debug\net6.0\lesson 5 folder.deps.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\bin\Debug\net6.0\lesson 5 folder.runtimeconfig.json
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\bin\Debug\net6.0\lesson 5 folder.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\bin\Debug\net6.0\lesson 5 folder.pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.csproj.AssemblyReference.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.AssemblyInfoInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.AssemblyInfo.cs
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.csproj.CoreCompileInputs.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\refint\lesson 5 folder.dll
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.pdb
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\lesson 5 folder.genruntimeconfig.cache
+C:\Users\d3kaz\Desktop\Docs\C-lessons\C-lessons\lesson 5 folder\obj\Debug\net6.0\ref\lesson 5 folder.dll
